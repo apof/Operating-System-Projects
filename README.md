@@ -19,4 +19,4 @@ Multiple different processes have to been synchronized using POSIX Semaphores an
 Given a hierarchy of files/directories we have to save or restore it from disk preventing its "shape",content and Metadata. Insert,Extract,Zip,Print Metadata and other operations have been implemented for our tar file manipulation. The whole inode-Data structure is firstly been created in main memory. Then we write it on disk serializing it and every time we want to make a query or another operation we are recovering it back to Main memory format.
 Authors of Proj4: Apostolos Florakis(https://github.com/apof) - George Meimarakis Katsogiannis (https://github.com/Geokats)
 
-Analytical description (in Greek) and schematic representation for each task can be found in each Project directory.
+Extended description (in Greek) and schematic representation for each task can be found in each Project directory.
