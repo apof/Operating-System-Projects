@@ -3,7 +3,7 @@ Projects of Operating Systems DI course
 
 --> Proj1 - Data WareHouse using SkipList and Chained Hashing data structures
 
-The overall data structure is designed to store uviveristy students records and serve efficiently insert search and update queries using probabilistic data structure Skip List (https://en.wikipedia.org/wiki/Skip_list)
+The overall data structure is designed to store univeristy students records and serve efficiently insert search and update queries using probabilistic data structure Skip List (https://en.wikipedia.org/wiki/Skip_list)
 
 -->Proj2 - Process Hierarchies for Parallel Spatial Queries
 
